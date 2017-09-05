@@ -1,0 +1,1 @@
+A Social Media gathering platform for people to find and connect with others who host “game nights”. Users will be able to host a game they want to play, and how many people they need, and connect through the app which will facilitate the communication between the interested parties.
